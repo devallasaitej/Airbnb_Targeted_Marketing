@@ -3,5 +3,12 @@ We leverage advanced analytics techniques to pinpoint properties registered with
 
 ![image](https://github.com/devallasaitej/Airbnb_Targeted_Marketing/assets/64268620/12fbb73e-3836-41cf-abd1-d573728e6b67)
 
-# Churn Definition in Panel Data
+## Churn Definition in Panel Data
 Each property is categorized as “Not Churned” for the initial quarters it sustains and as “Churned” for the quarter it leaves. For example, if a property remains with Airbnb for five quarters, it is labeled “Not Churned” for the first four and “Churned” for the fifth. This approach allows us to discern the contributing factors to property churn, aiding in the prediction of churn probabilities for current-quarter properties.
+
+## Variable Selection and Feature Engineering
+Navigating through extensive datasets poses challenges in variable selection and feature engineering. Some variables were intuitively excluded, while others underwent rigorous testing to assess their impact on model variation between churned and non-churned properties. Even if a slight variation was detected, these variables were retained for model development. 
+![image](https://github.com/devallasaitej/Airbnb_Targeted_Marketing/assets/64268620/856c0de0-54b9-422b-b966-699c8a08899e)
+
+## Results
+![image](https://github.com/devallasaitej/Airbnb_Targeted_Marketing/assets/64268620/bbaf24e4-96bb-42e7-8348-d450673c64f3)
