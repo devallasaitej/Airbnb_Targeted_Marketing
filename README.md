@@ -12,3 +12,6 @@ Navigating through extensive datasets poses challenges in variable selection and
 
 ## Results
 ![image](https://github.com/devallasaitej/Airbnb_Targeted_Marketing/assets/64268620/bbaf24e4-96bb-42e7-8348-d450673c64f3)
+![image](https://github.com/devallasaitej/Airbnb_Targeted_Marketing/assets/64268620/25fb5539-5b47-48f4-8482-ac0a5e34b111)
+
+Among the 3,807 recommended for targeting, 996 properties actually churned. In the holdout data, a total of nearly 2,400 properties churned, and our predictive model captured approximately 40% of these properties. While this percentage might seem modest, the substantial improvement lies in the precision of our targeting efforts. By refining our focus from 24,000 properties to 4,000, we’ve conserved nearly 5/6ths of the total efforts, signifying a noteworthy enhancement in efficiency.
